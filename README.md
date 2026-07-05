@@ -15,3 +15,5 @@ This repository is intended for managing RECL Studio's brand assets. It contains
 ## Resources
 
 ## License
+
+This project is licensed under the GNU General Public License v3.0. See the [LICENSE](./LICENSE) file for details.
