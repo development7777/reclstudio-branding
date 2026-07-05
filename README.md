@@ -10,6 +10,8 @@
 
 ## About
 
+This repository is intended for managing RECL Studio's brand assets. It contains design elements such as logos, color palettes, and fonts.
+
 ## Resources
 
 ## License
