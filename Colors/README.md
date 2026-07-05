@@ -3,3 +3,6 @@
 ## About
 
 Documentation about color schemes in RECL Studio.
+
+## Light Colors
+
